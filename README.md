@@ -1,2 +1,4 @@
 # Replica-de-Chromnosaur
-Digital circuit game on Logisim.
+
+
+This game was created to show the capabilities of digital circuitry. [Along side being a submission for my University Subject]
