@@ -15,7 +15,7 @@ To play the game you simply need to download the main file in the folder, and op
 - click on the keyboard input bar to control
 
 
-W -> Jump
+W -> Jump; 
 S -> Duck
 
 
