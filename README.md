@@ -22,8 +22,30 @@ S -> Duck
 Other files are some testing things.
 
 
-
-Additional Notes/Details/Descrptions will be added later on when I have time. 
-
-
 Enjoy
+
+## Walkthrough
+
+![image](https://user-images.githubusercontent.com/79465272/147441070-829452a3-6faf-4234-861e-fed7498ca392.png)
+
+>- The overall layout of the circuit is marked with giant text, which describes what each part does.
+
+![image](https://user-images.githubusercontent.com/79465272/147441157-e5209140-7227-411a-8748-87d2d2a90cb9.png)
+
+>- Select the frequency of the clock signal. [The higher the frequency, the faster the game will play]
+
+![image](https://user-images.githubusercontent.com/79465272/147441283-e09d6fd0-3849-4c76-9854-4aca0260b7df.png)
+
+>- Start the simulation by clicking Tick Enabled
+
+![image](https://user-images.githubusercontent.com/79465272/147441361-23f0c561-1b8e-493d-afe8-5e41ee639954.png)
+
+>- Hold the Start button for atleast a second to actually start the game.
+
+Enjoy.
+
+## Additional Features
+
+- Gravity Swap after 5 Points.
+- Life System (Get 1 new Life for every 10 Points)
+- Flying and Ground Obstacle
